@@ -12,4 +12,6 @@ A backend system to maintain the logistics, and the entire delivery process of a
 - Start the server by running ```nodemon app.js```.
 - Test it out using Postman or any other API testing platform.
 
+ Note: Once a user is registered, copy the JWT Token received and set it inside headers.
+
   
